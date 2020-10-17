@@ -18,6 +18,31 @@ I am Ansh Goyal. My main interest lies in Machine Learning and Computer vision. 
 - 📫 How to reach me: contact me on [anshgoyal749@gmail.com](mailto: anshgoyal749@gmail.com)
 
 
+### Tools and Languages
+<code>
+<img src="https://github.com/github/explore/raw/master/topics/tensorflow/tensorflow.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/master/topics/python/python.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/master/topics/cpp/cpp.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/master/topics/opencv/opencv.png" width="40" height="40" />
+<img src="https://github.com/github/explore/raw/master/topics/scikit-learn/scikit-learn.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/master/topics/bash/bash.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/master/topics/dart/dart.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/master/topics/flask/flask.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/master/topics/java/java.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/master/topics/flutter/flutter.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/master/topics/android/android.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/master/topics/flutter/flutter.png" width="40" height="40" /> 
+<img src="https://github.com/github/explore/raw/master/topics/firebase/firebase.png" width="40" height="40" />
+ <img src="https://github.com/github/explore/raw/master/topics/github/github.png" width="40" height="40" /> 
+  <img src="https://github.com/github/explore/raw/master/topics/heroku/heroku.png" width="40" height="40" /> 
+  <img src="https://github.com/github/explore/raw/master/topics/linux/linux.png" width="40" height="40" /> 
+  <img src="https://github.com/github/explore/raw/master/topics/ubuntu/ubuntu.png" width="40" height="40" />
+  <img src="https://github.com/github/explore/raw/master/topics/terminal/terminal.png" width="40" height="40" />
+  <img src="https://github.com/github/explore/raw/master/topics/windows/windows.png" width="40" height="40" /> 
+</code><hr/>
+
+
+
 ![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=anshgoyal1&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 <br/>**Thanks for contributing to this =>**
 ![](https://komarev.com/ghpvc/?username=anshgoyal1&color=red)
