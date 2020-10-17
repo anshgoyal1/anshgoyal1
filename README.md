@@ -18,9 +18,6 @@ I am Ansh Goyal. My main interest lies in Machine Learning and Computer vision. 
 - 📫 How to reach me: contact me on [anshgoyal749@gmail.com](mailto: anshgoyal749@gmail.com)
 
 
-<p align=center>
-<!--     <a href="https://github.com/anshgoyal1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshgoyal1&layout=compact"></a> -->
-    <br>
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=anshgoyal1&show_icons=true">
-</p>
-
+![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=anshgoyal1&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
+<br/>**Thanks for contributing to this =>**
+![](https://komarev.com/ghpvc/?username=anshgoyal1&color=red)
