@@ -31,7 +31,6 @@ I am Ansh Goyal. My main interest lies in Machine Learning and Computer vision. 
 <img src="https://github.com/github/explore/raw/master/topics/java/java.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/master/topics/flutter/flutter.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/master/topics/android/android.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/raw/master/topics/flutter/flutter.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/master/topics/firebase/firebase.png" width="40" height="40" />
  <img src="https://github.com/github/explore/raw/master/topics/github/github.png" width="40" height="40" /> 
   <img src="https://github.com/github/explore/raw/master/topics/heroku/heroku.png" width="40" height="40" /> 
