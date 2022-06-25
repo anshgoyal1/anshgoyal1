@@ -24,4 +24,7 @@ I am Ansh Goyal. My main interest lies in Machine Learning and Computer vision. 
 
 ![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=anshgoyal1&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 <br/>**Thanks for contributing to this =>**
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anshgoyal1&include_all_commits=true&count_private=true&hide=css,java,html,typescript,jupyter notebook&theme=tokyonight">
+
 ![](https://komarev.com/ghpvc/?username=anshgoyal1&color=red)
